@@ -1,4 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Weather App
+
+ReactJS application to get the weather forecast for a given city.
+This uses a REST API from OpenWeather: (https://openweathermap.org/api)
+
+## Getting Started
+
+You will need to know how to run a ReactJS project locally or how deploy it on a server: (https://reactjs.org/docs/getting-started.html)
+
+## Built With
+
+* [ReactJS](https://reactjs.org/) - The web framework used
+* [Webpack](https://webpack.js.org/) - Dependency management
+* [Bootstrap](https://getbootstrap.com/) - CSS framework
+* [OpenWeather API](https://openweathermap.org/) - Used to generate weather feed
 
 ## Available Scripts
 
@@ -66,3 +80,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Authors
+
+Blaine Albert
+
+## Acknowledgments
+
+Thanks to Hamza M. for his tutorial on how to use the OpenWeather API.
+
