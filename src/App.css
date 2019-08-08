@@ -20,25 +20,21 @@
   margin: 20px auto;
   max-width:600px;
   box-shadow: 5px 5px 20px black;
-  -webkit-transition: height 1000ms linear;
-  -moz-transition: height 1000ms linear;
-  -o-transition: height 1000ms linear;
-  -ms-transition: height 1000ms linear;
-  transition: height 1000ms linear;
+
 }
 
 
-/**
+/*========
 Title
-**/
+========*/
 
 .app-title{
   color:white;
 }
 
-/**
+/*========
 Search
-**/
+========*/
 
 .search-form input[type=text] {   
   /*override iOS defaults*/
@@ -81,9 +77,9 @@ Search
   border:2px solid #303C6C;
 }
 
-/**
- Forecast
- **/
+/*========
+Forecast
+========*/
 
  .forecast-container{
    color:white;
